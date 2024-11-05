@@ -1,14 +1,8 @@
 # victorrobi-Cybersecurity-Portfolio
 > Modul 1-8 are inspired by Google. Please visit this [link](https://www.coursera.org/google-certificates/cybersecurity-certificate) for further information. More are to come, stay tuned! 
 
-## Professional Statements
-I am Ketmanto Wangsa. I am an Application Support Engineer at a Sydney-based CX consultancy. I provide IT technical support (Azure, Intune, Exchange, Entra ID), database extraction (SQL), and cyber security support. During a remote internship at a leading US supplier, I had the opportunity to serve as both Technical Support and Team Leader of the Sourcing Team. In addition, I completed the IBM Engagement Specialist program to enhance my interpersonal skills. Furthermore, I completed six cybersecurity virtual programs with ANZ, Datacom, Mastercard, AIG, Tata Consultancy, and Telstra. 
-
-Recently, I completed the Google IT Support and Cybersecurity Professional Certificate to pursue my passion for technology and Cybersecurity. The Google IT Support and Cybersecurity Professional Certificate have prepared me for industry-ready jobs. My ultimate goal is to become a Security Analyst. This role suits me because I have strong analytical abilities, persistence, eagerness to learn, a can-do attitude, problem-solving skills, and communication skills to address problems and emerging threats. 
-
-As of 2024, I am preparing to take the `certificate in cyber security`, `data analytics` and `diplomer in ethical harking and cyber security` certifications.
-
-
+Personal Professional Statement
+I am a dedicated cybersecurity professional with a strong foundation in IT support and a passion for safeguarding digital environments. My experiences as an Application Support Engineer and a Technical Support Lead have honed my analytical and problem-solving skills. I am committed to continuous learning and have completed multiple certifications, including the Google IT Support and Cybersecurity Professional Certificate. My goal is to leverage my skills and knowledge to become a Security Analyst, where I can effectively address and mitigate cybersecurity threats.
 
 ### Skills  
 | Projects | Skills/Knowledge Gained | 
