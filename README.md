@@ -17,7 +17,7 @@ Here’s the updated skills table, now including the Honey Pot project and the V
 | [7 - IDS & SIEM](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/7%20-%20IDS%20%26%20SIEM) | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk` |
 | [8 - Automation with Python](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/8%20-%20Automation%20with%20Python) | `Computer Programming`, `Python Programming`, `Coding`  |
 | [9 - Honey Pot Project](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/HoneyPot) | `Intrusion detection`, `Cyber threat analysis`, `Network monitoring` |
-| [10 - Vulnerability Scanning Tool](VulnerabilityScanningTool) | `Vulnerability assessment`, `Security scanning`, `Risk analysis` |
+| [10 - Vulnerability Scanning Tool](https://github.com/Robivic/VulnerabilityScanningTool.git) | `Vulnerability assessment`, `Security scanning`, `Risk analysis` |
 
 Feel free to let me know if there are any more additions or changes you'd like!
 ### Tools 
