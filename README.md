@@ -1,5 +1,4 @@
-# victorrobi-Cybersecurity-Portfolio
-> Modul 1-8 are inspired by Google. Please visit this [link](https://www.coursera.org/google-certificates/cybersecurity-certificate) for further information. More are to come, stay tuned! 
+# victorrobi-Cybersecurity-Portfolio 
 
 Personal Professional Statement
 I am a dedicated cybersecurity professional with a strong foundation in IT support and a passion for safeguarding digital environments. My experiences as an Application Support Engineer and a Technical Support Lead have honed my analytical and problem-solving skills. I am committed to continuous learning and have completed multiple certifications, including the Google IT Support and Cybersecurity Professional Certificate. My goal is to leverage my skills and knowledge to become a Security Analyst, where I can effectively address and mitigate cybersecurity threats.
