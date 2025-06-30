@@ -102,7 +102,7 @@ const ConnectPage = () => {
                 value="prayer" 
                 className="flex items-center space-x-2 data-[state=active]:bg-purple-600 data-[state=active]:text-white rounded-lg py-3 px-4 font-semibold transition-all duration-300"
               >
-                <Pray className="w-4 h-4" />
+                <HandMetal className="w-4 h-4" />
                 <span>Prayer</span>
               </TabsTrigger>
             </TabsList>
