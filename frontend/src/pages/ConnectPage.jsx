@@ -263,7 +263,7 @@ const ConnectPage = () => {
                   <CardHeader>
                     <div className="flex items-center justify-center mb-4">
                       <div className="w-16 h-16 bg-gradient-to-r from-purple-500 to-pink-500 rounded-full flex items-center justify-center">
-                        <Pray className="w-8 h-8 text-white" />
+                        <HandMetal className="w-8 h-8 text-white" />
                       </div>
                     </div>
                     <CardTitle className="text-2xl text-center text-gray-900">
