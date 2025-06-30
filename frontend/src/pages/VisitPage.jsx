@@ -2,7 +2,7 @@ import React from 'react';
 import { Card, CardContent, CardHeader, CardTitle } from '../components/ui/card';
 import { Badge } from '../components/ui/badge';
 import { Button } from '../components/ui/button';
-import { MapPin, Clock, Phone, Mail, Car, Users, Coffee, Heart, ArrowRight, Directions, Star } from 'lucide-react';
+import { MapPin, Clock, Phone, Mail, Car, Users, Coffee, Heart, ArrowRight, Navigation, Star } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { churchInfo } from '../data/mockData';
 
