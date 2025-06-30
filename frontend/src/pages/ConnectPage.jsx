@@ -6,7 +6,7 @@ import { Input } from '../components/ui/input';
 import { Textarea } from '../components/ui/textarea';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '../components/ui/select';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '../components/ui/tabs';
-import { Heart, Users, HandHeart, Send, Clock, MapPin, User, ArrowRight, UserPlus, Pray } from 'lucide-react';
+import { Heart, Users, HandHeart, Send, Clock, MapPin, User, ArrowRight, UserPlus, HandMetal } from 'lucide-react';
 import { smallGroups, volunteerOpportunities, mockStorage } from '../data/mockData';
 import { useToast } from '../hooks/use-toast';
 
